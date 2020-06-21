@@ -13,14 +13,10 @@ Just like html tags h1 to h6 you can use any number of # that represent the leve
 for bold style you can add text beteewn ** **
 **this is bold**
 
-for bold style you can add text beteewn ** **
-**this is bold**
-
 for italic style you can add text beteewn * *
 *this is italic*
 
-for italic style you can add text beteewn * *
-*this is italic*
+
 
 # lists:
 
