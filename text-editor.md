@@ -6,5 +6,10 @@ and one of the most powerful tools is the text editor but as a programmer, you n
 * auto completion: code editors will give you some hints for what tag or property and stuff like this and some times with some description of it.
 * built-in tools: Tools, like emit zen, will help you create HTML code much faster and built-in CMD will make your stay in your editor and save time.
 
+## examples of code editors
+1. VS code
+2. Atom
+3. notepad++
+
 # what is IDE
 The IDE is a full package that contains text editor and other tools like debugger and compiler.
