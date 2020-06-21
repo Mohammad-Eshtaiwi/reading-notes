@@ -12,7 +12,7 @@ growth mindset is mean that your **talent is not every thing about success**. yo
 
 * the following graph represent the differences between a fixed and a growth mindset:
 
-![the differences between a fixed and a growth mindset](https://github.com/Mohammad-Eshtaiwi/reading-notes/blob/master/Graph.png)
+![the differences between a fixed and a growth mindset](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png)
 [**source of the image**](https://www.atlassian.com/blog/inside-atlassian/growth-mindset) 
 
 # notes to myself to stay in growth mindset:
