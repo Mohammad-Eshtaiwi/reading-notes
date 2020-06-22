@@ -1,33 +1,12 @@
-# This is markdown summary for beginners
+#Welcome to my project
 
-# Markdown is simply a away to create a github page using simpler langage than html to create documentaion for your project as web page
+***I am Mohammad Eshtaiwi cats lover,gamer and programmer who interested in web development.***
 
-### Main Syntax
-
-* headers:
-
-Just like html tags h1 to h6 you can use any number of # that represent the level of the headding for example # ## ### and so on
-
-* common styles:
-
-for bold style you can add text beteewn ** **
-**this is bold**
-
-for italic style you can add text beteewn * *
-*this is italic*
-
-
-
-# lists:
-
-for adding unorder list simply add * before the text. on other hand use normal numbers followed by . to add ordered list
-
-# image :
-add ! followed by [] that contain the alt (descreption for the image in case is not loaded) followed by () that contain the path of the image
-# url :
-add [] that contain descreption for the url followed by () that contain the url
-# Blockquotes
-you can siply add > in the start of the text
-
-# Task Lists:
-you can add - [x] for highlighted taskes and - [] for undone tasks
+# Table of content
+Name | Description | Live link
+------------ | ------------- | -------------
+markdown-basics | This is cheat sheet for mark down | [markdown-basics](https://mohammad-eshtaiwi.github.io/reading-notes/markdown-basics)
+text-editor | small blog about text editor and why we need it | [text-editor](https://mohammad-eshtaiwi.github.io/reading-notes/text-editor)
+professional-competencies | want to be professional? then read this | [professional-competencies](https://mohammad-eshtaiwi.github.io/reading-notes/professional-competencies)
+command-line | cheat sheet for comman line | [command-line](https://mohammad-eshtaiwi.github.io/reading-notes/command-line)
+Lab01b | here i used basics of markdown language | [Lab01b](https://mohammad-eshtaiwi.github.io/reading-notes/Lab01b)
