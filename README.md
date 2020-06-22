@@ -11,3 +11,4 @@ text-editor | small blog about text editor and why we need it | [text-editor](ht
 professional-competencies | want to be professional? then read this | [professional-competencies](https://mohammad-eshtaiwi.github.io/reading-notes/professional-competencies)
 command-line | cheat sheet for comman line | [command-line](https://mohammad-eshtaiwi.github.io/reading-notes/command-line)
 Lab01b | here i used basics of markdown language | [Lab01b](https://mohammad-eshtaiwi.github.io/reading-notes/Lab01b)
+git-intro | basics of git and its commands | [Lab01b](https://mohammad-eshtaiwi.github.io/reading-notes/git-intro)
