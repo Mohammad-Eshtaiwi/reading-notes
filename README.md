@@ -13,3 +13,4 @@
 | Lab01b                        | here i used basics of markdown language         | [Lab01b](https://mohammad-eshtaiwi.github.io/reading-notes/Lab01b)                                              |
 | git-intro                     | basics of git and its commands                  | [git-intro](https://mohammad-eshtaiwi.github.io/reading-notes/git-intro)                                        |
 | Structure-web-pages-with-HTML | HTML5 and design basics                         | [Structure-web-pages-with-HTM](https://mohammad-eshtaiwi.github.io/reading-notes/Structure-web-pages-with-HTML) |
+| Design-web-pages-with-CSS | what is css and basics of colores                   | [Design-web-pages-with-CSS](https://mohammad-eshtaiwi.github.io/reading-notes/Design-web-pages-with-CSS) |
