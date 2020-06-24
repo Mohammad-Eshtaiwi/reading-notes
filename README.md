@@ -15,3 +15,4 @@
 | Structure-web-pages-with-HTML | HTML5 and design basics                         | [Structure-web-pages-with-HTM](https://mohammad-eshtaiwi.github.io/reading-notes/Structure-web-pages-with-HTML) |
 | Design-web-pages-with-CSS     | what is css and basics of colores               | [Design-web-pages-with-CSS](https://mohammad-eshtaiwi.github.io/reading-notes/Design-web-pages-with-CSS)        |
 | How-Computers-Work            | How Computers Work                              | [How-Computers-Work](https://mohammad-eshtaiwi.github.io/reading-notes/How-Computers-Work)                      |
+| Programming-with-JavaScript   | js intro , operators , and functions            | [How-Computers-Work](https://mohammad-eshtaiwi.github.io/reading-notes/Programming-with-JavaScript)             |

@@ -1,0 +1,4 @@
+- the computer will execute your code line by line so you need to know this to write your code by the way that it understands it. and the best way to start is to make a list of steps or make a graph that you will transform into a code.
+- the computer doesn't know about our world objects so that is our job to make an object that has data that contain the properties and the methods that represent our real-world objects
+- arithmetic operators (+ - \* / % ++ --) : they used to manipulate your data. the most interesting one is the modulus which used in encryption and security
+- functions are blocks of codes that used to perform a specific task and used to not repeat yourself. methods used to manipulate the properties of the object so it is like the interface for the user to deal with the object
