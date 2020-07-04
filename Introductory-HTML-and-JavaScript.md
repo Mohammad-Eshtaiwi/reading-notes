@@ -1,11 +1,11 @@
 # How The web Works
 
-When you enter a domain name in your browser you will send a request to the DNS which will look up for your domain name and send back an ip adress that will let your browser to connect to the web server that host the requsted domain and finaly send you the website.
+When you enter a domain name in your browser you will send a request to the DNS which will lookup for your domain name and send back an IP address that will let your browser connect to the webserver that hosts the requested domain and finally send you the website.
 
 # HTML & Tags & Elements
 
-- HTML is only define the structure or the scelton and you your content which can be text, image, audio, and video
-- every tag that will have a content will have tag and closing tag for example \<p> \</p> on other hand if it has no content within it doesn't has closing tag and some tags have atributes to give the element more informaion.
+- HTML only defines the structure or the skeleton and your content which can be text, image, audio, and video
+- every tag that will have content will have a tag and closing tag for example \<p> \</p> on the other hand if it has no content within it doesn't have the closing tag and some tags have attributes to give the element more information.
 
 # main tags
 
@@ -28,35 +28,35 @@ displayed in the main browser window.\</p>
 <br>
 \</html>
 
-- \<body> : all tags that display content shall be inside it
-- \<head> : here you define your site information and embednt files.
+- \<body>: all tags that display content shall be inside it
+- \<head>: here you define your site information and embed files.
 - \<title> this will add a title at the tab.
-- \<!-- --> comments : use it to give idea about what the current section or part of code is about and can used for document and make your code more informative for the others
-- \<div>: used to group related content and give it a spicail fetures
+- \<!-- --> comments: use it to give an idea about what the current section or part of code is about and can be used for document and make your code more informative for the others
+- \<div>: used to group related content and give it special features
 
-* ID Attribute and Classes : they used to give your elements a identy but the id shall be unique and every element shall have only one id.
+* ID Attribute and Classes: they used to give your elements an identity but the id shall be unique and every element shall have only one id.
 
 # Block & Inline
 
-the block elements like h1 div p will always start a new line and will be affected by padding, width , margin. But the inline elements are the opisite and example of them are span, b, and i tags
+the block elements like h1 div p will always start a new line and will be affected by padding, width, margin. But the inline elements are the opposite and example of them are span, b, and i tags
 
 # JS
 
-By script we mean a small picie of code that of code that preform a task. So the computer can't do a task without following it step by step.
+By script, we mean a small piece of code that performs a task. So the computer can't do a task without following it step by step.
 <br><br>
-try to design a procure using steps or flowchart to help you writing your code.
+try to design a procure using steps or flowchart to help you write your code.
 <br><br>
-Objects are represnt real world things and each object have:
+Objects are represented real-world things and each object have:
 
 - Properties: to describe the characteristics of your object.
-- Evants: So the object get triggered at some events like a click.
+- Events: So the object gets triggered at some events like a click.
 - methods: used to interact with the object and describe what it can do.
 
 # How Browser Sees A Web Page
 
-- receive the sourse files.
-- create a model for each html file and sub models called nodes.
-- use rendering engine to show the page and if there no css file will apply a defalut styles. **_Every browser has its own defult styles_**
+- receive the source files.
+- create a model for each HTML file and sub-models called nodes.
+- use the rendering engine to show the page and if there are not CSS file will apply default styles. **_Every browser has its default styles_**
 
 # The Mix Of HTML CSS JS
 
