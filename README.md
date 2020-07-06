@@ -19,3 +19,4 @@
 | Operators-and-Loops              | logical operators and Loops                       | [Operators-and-Loops](https://mohammad-eshtaiwi.github.io/reading-notes/Operators-and-Loops)                           |
 | Introductory-HTML-and-JavaScript | Introductory HTML and JavaScript                  | [Introductory-HTML-and-JavaScript](https://mohammad-eshtaiwi.github.io/reading-notes/Introductory-HTML-and-JavaScript) |
 | Basics-of-HTML-CSS-&-JS          | basics of css and js and explain switch statement | [Basics-of-HTML,-CSS-&-JS](https://mohammad-eshtaiwi.github.io/reading-notes/Basics-of-HTML-CSS-&-JS)                  |
+| HTML-Lists-JS-Control-Flow       | basics of flow control and the boxes              | [HTML-Lists-JS-Control-Flow](https://mohammad-eshtaiwi.github.io/reading-notes/HTML-Lists-JS-Control-Flow)             |
