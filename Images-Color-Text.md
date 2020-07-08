@@ -2,13 +2,13 @@
 
 **_\<img src="./path" alt="">_**
 
-This is the basic definition to add an image to your ste. the src used to add the path of your image and the alt to add a descreption to the search engines and as a messge shown to the user if the image can't be loaded.
+This is the basic definition to add an image to your site. the src used to add the path of your image and the alt to add a description to the search engines and as a message shown to the user if the image can't be loaded.
 
-It is very important to choose an image with dimentions that fit in its container in the site. Also to make it load fast you need to make your image with jpeg, gif, and png.
+It is very important to choose an image with dimensions that fit in its container on the site. Also to make it load fast you need to make your image with jpeg, gif, and png.
 
 # Colors
 
-In general every color is a mix of red, blue, and green.
+In general, every color is a mix of red, blue, and green.
 
 When picking foreground and background colors, it is important to ensure that there is enough contrast for the text to be legible
 
@@ -29,13 +29,13 @@ In rbga the a parameter used to define the opacity
 
 # Text & Fonts
 
-fonts types uses:
+fonts types usage:
 
-- Serif: used with the printed texts and it eazy to read
-- Sans-Serif: used with small fonts and low resolution screens
-- Monospace: this kind of fonts have the same width for every line with will make it well aligned and eazier to follow and read.
+- Serif: used with the printed texts and it easy to read
+- Sans-Serif: used with small fonts and low-resolution screens
+- Monospace: this kind of fonts has the same width for every line with will make it well-aligned and easier to follow and read.
 
-Not all devices have the same set of fonts so you need to add genaric font at the end like this (**_font-family: Georgia, Times, serif;_**). Also you can add the font into your project files and use the font from your file not from the local device that user have.
+Not all devices have the same set of fonts so you need to add generic font at the end like this (**_font-family: Georgia, Times, serif;_**). Also, you can add the font into your project files and use the font from your file, not from the local device that the user has.
 
 @font-face {
 
@@ -50,9 +50,9 @@ h1, h2 {
 font-family: ChunkFiveRegular, Georgia, serif;
 
 }
-This example explane how to add a font family from your dirictory and not rely on the user fonts set.
+This example explains how to add a font family from your directory and not rely on the user's fonts set.
 
-- @font-face: used to start a block that used to define new font
-- font-family:when it within @font-face it will define the name to be used in your css.
+- @font-face: used to start a block that used to define a new font
+- font-family: when it within @font-face it will define the name to be used in your CSS.
 
-text-indent can be used to define the logo. So you can git the text-indent value like -999px thx add a background-image. By this techniech you will help the search engines to get your pad at the same time you will geta nice logo from the background image.
+text-indent can be used to define the logo. So you can git the text-indent value like -999px thx add a background-image. By this technique you will help the search engines to get your pad at the same time you will geta nice logo from the background image.
