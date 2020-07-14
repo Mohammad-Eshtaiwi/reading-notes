@@ -20,6 +20,10 @@ target attribute will make the user life easier by open the new page or site int
 - sticky: will make your element stick with you on when scrolling
 - fixed: will position an element on your viewpoint.
 
+# floats
+
+float can change the flow of your element to left or right and other element will flow around it.
+
 # functions
 
 The function is a block of code that you can call it any time to perform a task.
