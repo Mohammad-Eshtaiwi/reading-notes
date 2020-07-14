@@ -1,6 +1,6 @@
 # forms
 
-Use it to take data from the user then we submit the data and do an an event.
+Use it to take data from the user then we submit the data and do an event.
 
 ## types of inputs
 
@@ -8,25 +8,25 @@ text inputs
 
 - Text input: general text input
 - Password input: make the entered data look like dots
-- Text area: used to multi lines entery
+- Text area: used to multi-lines entry
 
 Making Choices:
 
-- Radio buttons: make user enter one choice
-- Checkboxes: make user enter multi choices
-- Drop-down boxes: make dropdown list and the user select one
+- Radio buttons: make the user enter one choice
+- Checkboxes: make the user enter multi choices
+- Drop-down boxes: make a dropdown list and the user select one
 
 ## input attributes
 
-- name: give it a name to let the server to idintfiy it.
+- name: give it a name to let the server to identify it.
 - maxlength: validate to the max entry characters
 
-select tag used to craate a dropdown list input and put inside it a group of selete tags to define a posible values
+the select tag used to create a dropdown list input and put inside it a group of select tags to define a possible values
 
 # JS Events
 
-Events is a function that triggered when something happend.
-we can assign an event to a element using the dom:
+Events are a function that triggered when something happened.
+we can assign an event to an element using the dom:
 
 document.element.addEventListener("event",function)
 
