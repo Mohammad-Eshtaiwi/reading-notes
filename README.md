@@ -23,3 +23,4 @@
 | Images-Color-Text                     | Images-Color-Text                                 | [Images-Color-Text](https://mohammad-eshtaiwi.github.io/reading-notes/Images-Color-Text)                                         |
 | JS-Object-Literals-The-DOM            | JS-Object-Literals-The-DOM                        | [JS-Object-Literals-The-DOM](https://mohammad-eshtaiwi.github.io/reading-notes/JS-Object-Literals-The-DOM)                       |
 | HTML-Tables-JS-Constructor-Functions  | HTML-Tables-JS-Constructor-Functions              | [ HTML-Tables-JS-Constructor-Functions](https://mohammad-eshtaiwi.github.io/reading-notes/HTML-Tables-JS-Constructor-Functions)  |
+| Forms-and-JS-Events                   | Forms-and-JS-Events                               | [ Forms-and-JS-Events](https://mohammad-eshtaiwi.github.io/reading-notes/Forms-and-JS-Events)                                    |
