@@ -25,3 +25,4 @@
 | HTML-Tables-JS-Constructor-Functions  | HTML-Tables-JS-Constructor-Functions              | [ HTML-Tables-JS-Constructor-Functions](https://mohammad-eshtaiwi.github.io/reading-notes/HTML-Tables-JS-Constructor-Functions)  |
 | Forms-and-JS-Events                   | Forms-and-JS-Events                               | [ Forms-and-JS-Events](https://mohammad-eshtaiwi.github.io/reading-notes/Forms-and-JS-Events)                                    |
 | Debugging                             | Debugging                                         | [Debugging](https://mohammad-eshtaiwi.github.io/reading-notes/Debugging)                                                         |
+| Practical-Information                 | Practical-Information                             | [Practical-Information](https://mohammad-eshtaiwi.github.io/reading-notes/Practical-Information)                                 |
