@@ -27,3 +27,4 @@
 | Debugging                             | Debugging                                         | [Debugging](https://mohammad-eshtaiwi.github.io/reading-notes/Debugging)                                                         |
 | Practical-Information                 | Practical-Information                             | [Practical-Information](https://mohammad-eshtaiwi.github.io/reading-notes/Practical-Information)                                 |
 | ChartJs-Canvas                        | ChartJs-Canvas                                    | [ChartJs-Canvas](https://mohammad-eshtaiwi.github.io/reading-notes/ChartJs-Canvas)                                               |
+| Local-Storage                         | Local-Storage                                     | [Local-Storage](https://mohammad-eshtaiwi.github.io/reading-notes/Local-Storage)                                                 |
